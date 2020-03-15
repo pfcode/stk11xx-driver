@@ -2,7 +2,7 @@
  * @file stk11xx-dev-0500.c
  * @author Nicolas VIVIEN
  * @date 2009-05-30
- * @version v2.2.x
+ * @version v2.3.x
  *
  * @brief Driver for Syntek USB video camera
  *

@@ -2,7 +2,7 @@
  * @file stk11xx.h
  * @author Nicolas VIVIEN
  * @date 2006-10-23
- * @version v2.2.x
+ * @version v2.3.x
  *
  * @brief Driver for Syntek USB video camera
  *
@@ -37,7 +37,7 @@
 
 
 #define DRIVER_NAME					"stk11xx"					/**< Name of this driver */
-#define DRIVER_VERSION				"v2.2.0"					/**< Version of this driver */
+#define DRIVER_VERSION				"v2.3.0"					/**< Version of this driver */
 #define DRIVER_VERSION_NUM			0x020200					/**< Version numerical of this driver */
 #define DRIVER_DESC					"Syntek USB Video Camera"	/**< Short description of this driver */
 #define DRIVER_AUTHOR				"Nicolas VIVIEN"			/**< Author of this driver */

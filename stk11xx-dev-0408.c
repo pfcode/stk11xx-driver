@@ -2,7 +2,7 @@
  * @file stk11xx-dev-0408.c
  * @author Ivor Hewitt
  * @date 2009-01-01
- * @version v2.2.x
+ * @version v2.3.x
  *
  * @brief Driver for Syntek USB video camera
  *

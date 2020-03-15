@@ -2,7 +2,7 @@
  * @file stk11xx-bayer.c
  * @author Martin ROOS
  * @date 2006-01-14
- * @version v2.2.x
+ * @version v2.3.x
  *
  * @brief Driver for Syntek USB video camera
  *
